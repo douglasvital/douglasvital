@@ -3,7 +3,9 @@
 - 🔭 Linux > Windows :penguin:{
 - 🌱 shell, python, ansible, terraform,  c#, c++, lua, power-cli, automation;
 - 👯 Graduação em Analista de sistemas da informação;
-- 🤔 Graduação em  Desenvolvedor de Jogos Digitais; 
+- 🤔 Graduação em  Desenvolvedor de Jogos Digitais;
+- 🤔 Pós Graduação em  Cloud Computing;
+- 🤔 Pós Graduação em  Devops;
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
